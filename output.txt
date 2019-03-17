@@ -1,0 +1,32 @@
+Starting Program. This takes a while.
+The password for hash value 6f047ccaa1ed3e8e05cde1c7ebc7d958 is 181003
+It takes to program [882ms] to recover this password
+
+
+
+The password for hash value 275a5602cd91a468a0e10c226a03a39c is 41167
+It takes to program [1104ms] to recover this password
+
+
+
+The password for hash value b4ba93170358df216e8648734ac2d539 is QINGFANG
+It takes to program [68938ms] to recover this password
+
+
+
+The password for hash value dc1c6ca00763a1821c5af993e0b6f60a is lion8888
+It takes to program [225ms] to recover this password
+
+
+
+The password for hash value 8cd9f1b962128bd3d3ede2f5f101f4fc is victorboy
+It takes to program [1505209ms] to recover this password
+
+
+
+The password for hash value 554532464e066aba23aee72b95f18ba2 is wakemeupwhenseptemberends
+It takes to program [1472625ms] to recover this password
+
+
+BUILD SUCCESSFUL (total time: 50 minutes 41 seconds)
+
